@@ -5,7 +5,7 @@
 
 body {
     border: solid black;
-    background-color: black;
+    background-color: beige;
 }
 
 header {
@@ -27,7 +27,7 @@ h1 {
 }
 
 footer
-    color: beige;
+    color: black;
     text-align: center;
     border: solid 3px black;
     background-color: black;
