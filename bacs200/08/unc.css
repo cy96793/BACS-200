@@ -4,7 +4,7 @@
 body {
     padding: 1em;
     margin: 1em;
-    background: #979ca2;
+    background: green;
 }
 
 article {
@@ -25,7 +25,7 @@ h1 {
     margin: 20px;
     padding: 30px;
     color: #ffffff;
-    background-color: #4f0000;
+    background-color: orange;
     border: 5px solid #0000;
     text-align: center;
     box-shadow: 2px 2px 5px black;
@@ -34,7 +34,7 @@ h1 {
 
 h2 {
     color: #ffffff;
-    background-color: #4f0000;
+    background-color: orange;
     border: 2px solid #4f0000;
     text-align: center;
     margin: 10px 20px;
@@ -53,7 +53,7 @@ h4 {
 
 header {
     #border: 5px solid #000;
-    background-color: #4f0000;
+    background-color: orange;
     font-family: sans-serif;
     padding: .5em;
 
@@ -71,7 +71,7 @@ header a:hover {
 }
 
 aside {
-    background-color: gray;
+    background-color: blue;
     text-align: center;
     font-size: 50px;
     font-family: sans-serif;
